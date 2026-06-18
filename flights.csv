@@ -1,0 +1,13 @@
+Airline,Weather,Departure_Hour,Distance,Delay
+Biman,Clear,8,500,0
+Biman,Rainy,9,500,1
+US-Bangla,Clear,10,700,0
+US-Bangla,Storm,18,700,1
+Emirates,Clear,14,3000,0
+Emirates,Fog,6,3000,1
+Qatar,Rainy,20,3500,1
+Qatar,Clear,12,3500,0
+Turkish,Storm,22,2500,1
+Turkish,Clear,11,2500,0
+AirAsia,Fog,5,1500,1
+AirAsia,Clear,15,1500,0
